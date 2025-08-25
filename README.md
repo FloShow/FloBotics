@@ -1,24 +1,32 @@
 # FloBotics
-Digital playground for AI storytelling, generative media, interactive video workflows, and narrative design. Features SerialThief.com: an AI-enhanced podcast + game series blending time-travel, redemption arcs, and creative code experiments.
 
-## About FloBotics
+Digital playground for AI storytelling, generative media, interactive video workflows, and narrative design. Features two creative labs:
 
-This is my personal digital lab for experimenting with AI-enhanced creativity—from dynamic social content to narrative-driven media and interactive code.
+- **[SerialThief.com](https://www.serialthief.com/):**  
+  An AI-enhanced podcast and game series that blends time-travel, redemption arcs, and interactive storytelling. Follow the journey of a time-bending thief who rights historical wrongs—each chapter paired with AI-generated visuals, voice cloning, and coded minigames.
 
-It features [SerialThief.com](https://www.serialthief.com/), a sci-fi podcast and story-driven game where a time-traveling thief atones for her past by correcting historical injustices. Each chapter includes AI-generated visuals, voice cloning, and interactive video prompts to immerse the audience in branching narratives and redemption arcs.
+- **[VideoReals.com](https://www.VideoReals.com/):**  
+  A platform for crafting daily AI-powered videos, branded spokespeople, voice clones, and thumb-stopping content for businesses. Focused on cinematic storytelling with tools like MidJourney, Sora, ElevenLabs, and Runway to produce custom video workflows, voices, and visuals at scale.
 
-In addition to creative projects, I occasionally explore:
-- Prompt engineering for AI art and video generation
-- Voice cloning workflows for character building
-- Python-coded mini-games embedded in narrative sites
-- Experiments in generative storytelling and emotional pacing
+---
+
+## About This Repository
+
+This space contains:
+- Prompt engineering experiments for visual and voice synthesis
+- Workflow automations for daily AI video production
+- Prototype scripts for voice cloning and scene sequencing
+- Narrative game logic in Python
+- Markdown drafts, audio clip links, and video storyboard assets
+
+---
 
 ## Projects & Links
 - 🎙 [SerialThief Podcast on Apple](https://podcasts.apple.com)  
 - 🎧 [SerialThief on Spotify](https://open.spotify.com)  
 - 🌐 [Main site: SerialThief.com](https://www.serialthief.com/)  
+- 📽 [Daily AI video reels: VideoReals.com](https://www.videoreals.com)
 
 ---
 
 *Created and maintained by Flo Lopez @ FloShow*
-
