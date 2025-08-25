@@ -1,2 +1,2 @@
 # FloBotics
-A digital playground for experiments in generative media, voice cloning, and interactive video workflows.
+Digital playground for AI storytelling, generative media, interactive video workflows, and narrative design. Features SerialThief.com: an AI-enhanced podcast + game series blending time-travel, redemption arcs, and creative code experiments.
